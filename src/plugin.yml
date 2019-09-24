@@ -1,0 +1,8 @@
+name: Heads
+version: 1.0
+main: me.jackster090.Heads.Main
+description: A Plugin Made By jackster090
+api-version: 1.13
+commands:
+    head:
+        description: Gives You A Player Head!
